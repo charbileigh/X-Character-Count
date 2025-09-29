@@ -5,9 +5,6 @@ This is a twitter / X character counter app app built with semantic HTML, modern
 ## Image of The Project
 
 
-
-
-
 ## Authors
 
 - [@Chabi Francesca Seopa](https://www.github.com/charbileigh)
