@@ -1,0 +1,57 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    color: hotpink;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.wrapper {
+    border-radius: 1.5rem;
+}
+
+.wrapper img {
+    width: 60px;
+    margin: 0 auto;
+    display: block;
+}
+
+.wrapper h1 {
+    text-align: center;
+    line-height: 2.5rem;
+    padding: 1rem 0;
+}
+
+.wrapper textarea {
+    width: 100%;
+    border: 4px solid hotpink;
+    border-radius: 1cqw;
+    padding: 1rem;
+    outline: 0;
+    font-size: 300;
+    caret-color: hotpink;
+    resize: none;
+}
+
+.char-update {
+    margin: 1rem 0;
+    display: flex;
+    justify-content: center;
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+
+/* For mobile view */
+@media screen and (min-width: 480px){
+    .wrapper textarea {
+        width: 400px;
+    }
+    
+}
