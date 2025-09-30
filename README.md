@@ -3,6 +3,7 @@
 This is a twitter / X character counter app app built with semantic HTML, modern CSS, and JS.
 
 ## Image of The Project
+![Snip 2025-09-30 21 53 24](https://github.com/user-attachments/assets/9fb62a82-a76a-42fd-bd6a-c9a3b2127c90)
 
 
 ## Authors
